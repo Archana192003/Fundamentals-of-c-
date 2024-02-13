@@ -1,9 +1,24 @@
 //Write a C program to print the sample output.
-//Sample Output :Hello World...!
+//Sample Output :
+Hello World...!
+
 #include<iostream>
 using namespace std;
 int main()
 {
 cout<<"Hello World...!";
 return 0;
+}
+
+
+//Write a C program to print sample output.
+//Sample Output :
+Hello World...!
+Hello World...!
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"Hello World...!\nHello World...!";
 }
